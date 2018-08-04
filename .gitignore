@@ -1,4 +1,4 @@
 .txt
 *.pyc
-venv
-.idea
+/venv
+/.idea
