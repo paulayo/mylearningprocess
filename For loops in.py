@@ -2,7 +2,7 @@
 # when you know the number
 # of iteration required
 
-fruits = ['Mango', 'Grapes', 'Apple']
+fruits = ['Mango', 'Grapes', 'Apple', 'Corn']
 
 for friut in fruits:
     print("current fruit: ", friut)
