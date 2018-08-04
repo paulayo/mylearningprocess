@@ -1,5 +1,4 @@
 .txt
 *.pyc
-*.dll
-*.venv
-*.idea
+venv
+.idea
