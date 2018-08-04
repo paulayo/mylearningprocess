@@ -1,3 +1,4 @@
+# print the number between 0 to 8 excluding 9
 count = 0
 
 while count < 9:
@@ -6,7 +7,7 @@ while count < 9:
 
 print("Good bye")
 
-
+# a guess game for learning while loop by edureka
 import random
 n = 20
 to_be_guessed = int(n * random.random()) + 1
@@ -22,4 +23,4 @@ while guess != to_be_guessed:
         print("Sorry that you're giving up!")
         break
 else:
-    print("Congratulation. You made it!4")
+    print("Congratulation. You made it!")
