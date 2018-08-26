@@ -1,21 +1,27 @@
-import tkinter as tk
+# traveling = input("Are you travelling: ")
+# 
+# while traveling == 'yes' or 'y':
+# 
+#     num = int(input("Fill in number of people travelling: "))
+# 
+#     for num in range(1,num+1):
+# 
+#         name  = input('Name: ')
+#         sex   = input('Male or Female: ')
+#         destination = input('Destination: ')
+# 
+# 
+# 
+# 
+#         print(name)
+# 
+#         print(sex)
+# 
+#         print(destination)
+# 
+# 
+#     traveling = input('Forgot someone? ')
+# 
 
-class Application(tk.Frame):
-    def __init__(self, master=None):
-        super().__init__(master)
-        self.pack()
-        self.create_widgets()
-    def create_widgets(self):
-        self.hi_there = tk.Button(self)
-        self.hi_there["text"] = "Hello World\n(click me)"
-        self.hi_there["command"] = self.say_hi
-        self.hi_there.pack(side="top")
-        self.quit = tk.Button(self, text="QUIT", fg="red",
-                              command=root.destroy)
-        self.quit.pack(side="bottom")
-    def say_hi(self):
-        print("hi there, everyone!")
-v
-root = tk.Tk()
-app = Application(master=root)
-app.mainloop()
+
+# Creating an ATM 

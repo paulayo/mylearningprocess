@@ -32,14 +32,14 @@ while True:
     guesses.append(guess)
 
     if guesses:
-        if abs(number-guess) < abs(number-guesses[-2]):
+        if abs(number-guess) < abs(number-guesses[-2]): # subsequent guess
             print('Very close')
         else:
             print("Too Far")
 
 
     else:
-        if abs(number-guess) <= 10:
+        if abs(number-guess) <= 10: # First guess
             print("Warm")
         else:
             print("cool")
