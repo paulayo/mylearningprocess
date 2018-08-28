@@ -123,6 +123,7 @@ for word in myGeneratorInstance:
 # Dealing with infinity
 
 from time import gmtime, strftime
+
 def myGen():
     while True:
         yield strftime('%a, %d %b %Y %H:%M:%S +0000', gmtime())
