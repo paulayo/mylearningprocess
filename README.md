@@ -8,6 +8,6 @@ The sites includes the following:
 * Udemy
 * Free tutorial.us
 
-Note: Changes can still be made as more these learning and research sites are accessed in the process of this training.
+Note: Changes can still be made as more of these learning and research sites are accessed in the process of this training.
 
 Please, don't hesistate to improve this file, if you can in anyway. I will really appreciate that!
