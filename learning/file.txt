@@ -1,0 +1,3 @@
+print("hello world!")
+
+The essence of learning programming language is to solve problems and create real world solutions
