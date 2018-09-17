@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+.vscode/
+>>>>>>> Trying to resolve the issues in the git tracked files
 .txt
 *.pyc
 venv
@@ -8,6 +12,9 @@ venv
 500 Lines or Less _ A Web Crawler With asyncio Coroutines.html
 .vscode/
 log.txt
+<<<<<<< HEAD
 =======
 .vscode/
 >>>>>>> Added a ignore file and learning to mylearningProcess
+=======
+>>>>>>> Trying to resolve the issues in the git tracked files
